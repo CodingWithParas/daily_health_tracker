@@ -66,21 +66,6 @@ flutter run
 
 ## 📱 App Screenshots
 
-### Login Screen
-![WhatsApp Image 2025-07-20 at 10 11 28 PM](https://github.com/user-attachments/assets/15e5e7f4-08d8-4734-b10c-e1a8eb4a3091)
-*Clean login interface with Google Sign-In button*
-
-### Dashboard
-![WhatsApp Image 2025-07-20 at 10 11 27 PM (2)](https://github.com/user-attachments/assets/0e02e73c-e610-4ac7-a5d5-e231bdfdbbfa)
-*User profile information and activity overview*
-
-### Health Graphs
-![WhatsApp Image 2025-07-20 at 10 11 27 PM](https://github.com/user-attachments/assets/52b9f849-7241-4169-a7ae-f83a4b0bfc5e)
-*Interactive 7-day step tracking with fl_chart*
-
-### Activity Logs
-![WhatsApp Image 2025-07-20 at 10 11 27 PM (1)](https://github.com/user-attachments/assets/88f423bb-9625-4f45-9545-3322ef735ce2)
-*Infinite scroll list of user activities*
 
 ## 🎯 Key Implementation Details
 
