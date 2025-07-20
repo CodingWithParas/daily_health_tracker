@@ -65,7 +65,23 @@ flutter run
 ```
 
 ## 📱 App Screenshots
+<div align="center">
+  
+Login Screen
+<img src="screenshots/login_screen.png" width="250" alt="Login Screen">
+Clean login interface with Google Sign-In button
 
+Dashboard
+<img src="screenshots/dashboard.png" width="250" alt="Dashboard">
+User profile information and activity overview
+
+Health Graphs
+<img src="screenshots/graph_screen.png" width="250" alt="Graph Screen">
+Interactive 7-day step tracking with fl_chart
+
+Activity Logs
+<img src="screenshots/activities_screen.png" width="250" alt="Activities">
+Infinite scroll list of user activities
 
 ## 🎯 Key Implementation Details
 
