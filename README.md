@@ -66,25 +66,6 @@ flutter run
 
 ## 📱 App Screenshots
 
-### Login Screen
-![Login Screen](screenshots/login_screen.png)
-*Clean login interface with Google Sign-In button*
-
-### Dashboard
-![Dashboard](screenshots/dashboard.png)
-*User profile information and activity overview*
-
-### Health Graphs
-![Graph Screen](screenshots/graph_screen.png)
-*Interactive 7-day step tracking with fl_chart*
-
-### Activity Logs
-![Activities](screenshots/activities_screen.png)
-*Infinite scroll list of user activities*
-
-### Countdown Timer
-![Timer](screenshots/timer_screen.png)
-*Activity reminder timer with reset functionality*
 
 ## 🎯 Key Implementation Details
 
